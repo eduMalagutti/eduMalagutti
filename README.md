@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Docker, Git**
 
-- 📫 How to reach me **eduardosm2004@gmail.com**
+- 📫 How to reach me **esmalagutti@gmail.com**
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-malagutti-177679226) 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_malagutti/)
